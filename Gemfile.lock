@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    clone_io (0.1.0)
+    clone.io (0.1.0)
       thor (~> 0.19)
       thor_plus (~> 3.1)
 
@@ -116,7 +116,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.12)
-  clone_io!
+  clone.io!
   codeclimate-test-reporter
   gemsmith (~> 7.7)
   guard-rspec
